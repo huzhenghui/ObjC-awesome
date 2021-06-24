@@ -1,0 +1,12 @@
+
+hello:
+    "./hello.m"
+
+print-args:
+    "./print-args.m param1 param2"
+
+script-with-weird-name:
+    "./script with weird name.m"
+
+NSProcessInfoTest:
+    "./NSProcessInfoTest.m"
